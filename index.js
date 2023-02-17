@@ -62,11 +62,11 @@ body {
 label {
     box-sizing: border-box;
     display: block;
-//     padding: 10px 20px;
+    padding: 10px 20px;
 }
 
 .chat-input {
-//     padding: 10px 20px;
+    padding: 10px 20px;
     margin: 0px;
     background: #fff;
     gap: 5px;
